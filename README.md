@@ -19,4 +19,14 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating container images with Ansible &lpar;using ansible-bender&rpar;](https://themkat.net/2022/03/17/creating_container_images_with_ansible.html)
+- [Introduction to Ansible](https://themkat.net/2022/03/10/intro_to_ansible.html)
+- [Why and how to use Github Actions](https://themkat.net/2022/03/01/github_actions_intro.html)
+- [Bit tricks - Absolute value without branching](https://themkat.net/2022/02/14/bit_tricks_absolute_value_no_branching.html)
+- [More sci-fi books you should read!](https://themkat.net/2022/02/12/more_scifi_books.html)
+- [Should you read Designing Data-Intensive Applications? - A short book review](https://themkat.net/2022/01/17/data_intensive_applications_review.html)
+- [Often forgotten features in Kotlin](https://themkat.net/2022/01/16/kotlin_often_forgotten_features.html)
+- [5 reasons I LOVE Emacs](https://themkat.net/2021/12/20/five_reasons_i_love_emacs.html)
+- [What’s the big deal with Reactive?](https://themkat.net/2021/12/16/reactive_whats_the_big_deal.html)
+- [Even more cool CLI tools for you to try!](https://themkat.net/2021/12/11/even_more_cli_tools_to_try.html)
 <!-- BLOG-POST-LIST:END -->
