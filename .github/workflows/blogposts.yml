@@ -1,7 +1,7 @@
 name: Update blog posts in README.md
 on:
   schedule: 
-  - cron: '0 * * * *'
+  - cron: '0 0/6 * * *'
   workflow_dispatch: 
 
 jobs:
