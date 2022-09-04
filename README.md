@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Things I wish I did earlier in life](https://themkat.net/2022/09/04/things_i_wish_i_did_earlier.html)
 - [Emacs Lisp debugging tips](https://themkat.net/2022/08/05/small_emacs_lisp_debugging_tips.html)
 - [Summer learning tips! - Programming, DevOps and retro](https://themkat.net/2022/06/29/summer_learning_tips.html)
 - [Debugging GameBoy Advance &lpar;GBA&rpar; programs/games in Emacs](https://themkat.net/2022/05/09/debugging_gba_in_emacs.html)
@@ -31,5 +32,4 @@ Here are some ideas to get you started:
 - [Bit tricks - Absolute value without branching](https://themkat.net/2022/02/14/bit_tricks_absolute_value_no_branching.html)
 - [More sci-fi books you should read!](https://themkat.net/2022/02/12/more_scifi_books.html)
 - [Should you read Designing Data-Intensive Applications? - A short book review](https://themkat.net/2022/01/17/data_intensive_applications_review.html)
-- [Often forgotten features in Kotlin](https://themkat.net/2022/01/16/kotlin_often_forgotten_features.html)
 <!-- BLOG-POST-LIST:END -->
