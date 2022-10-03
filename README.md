@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Packages that make Emacs Lisp more pleasant](https://themkat.net/2022/10/03/emacs_lisp_better.html)
 - [Programming Kotlin in Emacs - Redux 2022](https://themkat.net/2022/09/24/kotlin_in_emacs_redux.html)
 - [Things I wish I did earlier in life](https://themkat.net/2022/09/04/things_i_wish_i_did_earlier.html)
 - [Emacs Lisp debugging tips](https://themkat.net/2022/08/05/small_emacs_lisp_debugging_tips.html)
@@ -31,5 +32,4 @@ Here are some ideas to get you started:
 - [Introduction to Ansible](https://themkat.net/2022/03/10/intro_to_ansible.html)
 - [Why and how to use Github Actions](https://themkat.net/2022/03/01/github_actions_intro.html)
 - [Bit tricks - Absolute value without branching](https://themkat.net/2022/02/14/bit_tricks_absolute_value_no_branching.html)
-- [More sci-fi books you should read!](https://themkat.net/2022/02/12/more_scifi_books.html)
 <!-- BLOG-POST-LIST:END -->
