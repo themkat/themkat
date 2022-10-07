@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The awesomeness of pattern matching in Rust](https://themkat.net/2022/10/06/rust_awesome_pattern_matching.html)
 - [Mixed content HTML files in Emacs web-mode with context-aware completion and documentation](https://themkat.net/2022/10/04/emacs_web_mode_mixed.html)
 - [Packages that make Emacs Lisp more pleasant](https://themkat.net/2022/10/03/emacs_lisp_better.html)
 - [Programming Kotlin in Emacs - Redux 2022](https://themkat.net/2022/09/24/kotlin_in_emacs_redux.html)
@@ -31,5 +32,4 @@ Here are some ideas to get you started:
 - [Debugging GameBoy Advance &lpar;GBA&rpar; programs/games in Emacs](https://themkat.net/2022/05/09/debugging_gba_in_emacs.html)
 - [Creating container images with Ansible &lpar;using ansible-bender&rpar;](https://themkat.net/2022/03/17/creating_container_images_with_ansible.html)
 - [Introduction to Ansible](https://themkat.net/2022/03/10/intro_to_ansible.html)
-- [Why and how to use Github Actions](https://themkat.net/2022/03/01/github_actions_intro.html)
 <!-- BLOG-POST-LIST:END -->
