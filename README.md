@@ -33,3 +33,8 @@ Here are some ideas to get you started:
 - [Summer learning tips! - Programming, DevOps and retro](https://themkat.net/2022/06/29/summer_learning_tips.html)
 - [Debugging GameBoy Advance &lpar;GBA&rpar; programs/games in Emacs](https://themkat.net/2022/05/09/debugging_gba_in_emacs.html)
 <!-- BLOG-POST-LIST:END -->
+
+
+## Latest YouTube videos
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->

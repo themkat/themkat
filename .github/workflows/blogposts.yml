@@ -15,5 +15,12 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://themkat.net/feed.xml"
-          max_post_count: 10
+          max_post_count: 5
+
+      - name: Get youtube video list
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_3sv9P5H8wShL1cRnsHDjA"
+          comment_tag_name: YOUTUBE-LIST
+          max_post_count: 5
           
