@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 - [The awesomeness of pattern matching in Rust](https://themkat.net/2022/10/06/rust_awesome_pattern_matching.html)
 - [Mixed content HTML files in Emacs web-mode with context-aware completion and documentation](https://themkat.net/2022/10/04/emacs_web_mode_mixed.html)
 - [Packages that make Emacs Lisp more pleasant](https://themkat.net/2022/10/03/emacs_lisp_better.html)
-- [Programming Kotlin in Emacs - Redux 2022](https://themkat.net/2022/09/24/kotlin_in_emacs_redux.html)
-- [Things I wish I did earlier in life](https://themkat.net/2022/09/04/things_i_wish_i_did_earlier.html)
-- [Emacs Lisp debugging tips](https://themkat.net/2022/08/05/small_emacs_lisp_debugging_tips.html)
-- [Summer learning tips! - Programming, DevOps and retro](https://themkat.net/2022/06/29/summer_learning_tips.html)
-- [Debugging GameBoy Advance &lpar;GBA&rpar; programs/games in Emacs](https://themkat.net/2022/05/09/debugging_gba_in_emacs.html)
 <!-- BLOG-POST-LIST:END -->
 
 
