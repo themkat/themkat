@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcement: YouTube channel!](https://themkat.net/2022/10/17/announcing_youtube_channel.html)
 - [sed - more than replacements](https://themkat.net/2022/10/15/sed_more_than_replacements.html)
 - [Best resources to learn Kotlin &lpar;in my view&rpar;](https://themkat.net/2022/10/11/learning_kotlin_resources.html)
 - [The awesomeness of pattern matching in Rust](https://themkat.net/2022/10/06/rust_awesome_pattern_matching.html)
 - [Mixed content HTML files in Emacs web-mode with context-aware completion and documentation](https://themkat.net/2022/10/04/emacs_web_mode_mixed.html)
-- [Packages that make Emacs Lisp more pleasant](https://themkat.net/2022/10/03/emacs_lisp_better.html)
 <!-- BLOG-POST-LIST:END -->
 
 
