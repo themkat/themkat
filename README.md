@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What I love about Rust](https://themkat.net/2022/10/31/what_i_love_about_rust.html)
 - [Bit tricks - Counting the number of 1 bits &lpar;Kernighan algorithm&rpar;](https://themkat.net/2022/10/22/bit_tricks_count_bits_kernighan.html)
 - [Small command line tricks you should know](https://themkat.net/2022/10/18/small_command_line_tricks.html)
 - [Announcement: YouTube channel!](https://themkat.net/2022/10/17/announcing_youtube_channel.html)
 - [sed - more than replacements](https://themkat.net/2022/10/15/sed_more_than_replacements.html)
-- [Best resources to learn Kotlin &lpar;in my view&rpar;](https://themkat.net/2022/10/11/learning_kotlin_resources.html)
 <!-- BLOG-POST-LIST:END -->
 
 
