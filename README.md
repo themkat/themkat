@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ## Latest YouTube videos
 <!-- YOUTUBE-LIST:START -->
+- [Fun &lpar;and probably useless&rpar; things to do in Emacs!](https://www.youtube.com/watch?v=G4kyCBEVvr8)
 - [3 awesome Emacs packages everyone should check out!](https://www.youtube.com/watch?v=9O_0vwrLCow)
 - [Emacs as a Kotlin IDE | It&#39;s awesome!](https://www.youtube.com/watch?v=J4s3T0dd5CY)
 <!-- YOUTUBE-LIST:END -->
