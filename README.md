@@ -8,6 +8,10 @@ General Kenobi! Sorry, I had to :)
 
 [![Medium badge](https://img.shields.io/badge/-Medium-darkblue?logo=medium)](https://medium.com/@themkat)
 
+Check out my newest project with AI generated stories (with some touch ups afterwards off course):
+[AI tales](https://aitales.themkat.net/)
+(read the about-page to see how the automatic scheduled algorithm works!)
+
 <!--
 **themkat/themkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
