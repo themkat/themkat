@@ -12,6 +12,10 @@ Check out my newest project with AI generated stories (with some touch ups after
 [AI tales](https://aitales.themkat.net/)
 (read the about-page to see how the automatic scheduled algorithm works!)
 
+
+(the blog posts below are from my own personal blog at themkat.net though :) )
+
+
 <!--
 **themkat/themkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
