@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential books on the Rust programming language](https://themkat.net/2023/02/22/essential_rust_books.html)
 - [Debugging GameCube applications/games &lpar;in Emacs&rpar;](https://themkat.net/2023/01/13/gamecube_debugging.html)
 - [Booting GameCube Linux from SD card](https://themkat.net/2022/12/19/gamecube_linux_sd_boot.html)
 - [QEMU user space emulation in Linux](https://themkat.net/2022/11/19/qemu_user_static.html)
 - [What I love about Rust](https://themkat.net/2022/10/31/what_i_love_about_rust.html)
-- [Bit tricks - Counting the number of 1 bits &lpar;Kernighan algorithm&rpar;](https://themkat.net/2022/10/22/bit_tricks_count_bits_kernighan.html)
 <!-- BLOG-POST-LIST:END -->
 
 
