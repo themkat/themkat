@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Often overlooked Collections operations in the Kotlin Standard Library](https://themkat.net/2023/03/04/kotlin_collections_stdlib.html)
 - [The most important computer related innovations in the last 20ish years &lpar;post-internet&rpar; - in my view](https://themkat.net/2023/02/25/important_computer_related_innovations.html)
 - [Essential books on the Rust programming language](https://themkat.net/2023/02/22/essential_rust_books.html)
 - [Debugging GameCube applications/games &lpar;in Emacs&rpar;](https://themkat.net/2023/01/13/gamecube_debugging.html)
 - [Booting GameCube Linux from SD card](https://themkat.net/2022/12/19/gamecube_linux_sd_boot.html)
-- [QEMU user space emulation in Linux](https://themkat.net/2022/11/19/qemu_user_static.html)
 <!-- BLOG-POST-LIST:END -->
 
 
