@@ -9,7 +9,6 @@ General Kenobi! Sorry, I had to :)
 
 Check out my newest project with AI generated stories (with some touch ups afterwards off course):
 [AI tales](https://aitales.themkat.net/)
-
 (read [the about-page](https://aitales.themkat.net/about/) to see how the automatic scheduled algorithm works!)
 
 
