@@ -4,13 +4,13 @@ General Kenobi! Sorry, I had to :)
 ![themkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=themkat)
 
 
-[![Dev.to badge](https://img.shields.io/badge/-DevTo-lightgray?logo=dev.to)](https://dev.to/themkat)
+[![Dev.to badge](https://img.shields.io/badge/-DevTo-lightgray?logo=dev.to)](https://dev.to/themkat) [![Medium badge](https://img.shields.io/badge/-Medium-darkblue?logo=medium)](https://medium.com/@themkat)
 
-[![Medium badge](https://img.shields.io/badge/-Medium-darkblue?logo=medium)](https://medium.com/@themkat)
 
 Check out my newest project with AI generated stories (with some touch ups afterwards off course):
 [AI tales](https://aitales.themkat.net/)
-(read the about-page to see how the automatic scheduled algorithm works!)
+
+(read [the about-page](https://aitales.themkat.net/about/) to see how the automatic scheduled algorithm works!)
 
 
 (the blog posts below are from my own personal blog at themkat.net though :) )
