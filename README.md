@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 things I enjoy and 3 things I dislike about Mac OS X - As someone who primarily used GNU/Linux before](https://themkat.net/2023/07/29/three_things_love_hate_mac.html)
 - [Emacs package highlight - vterm](https://themkat.net/2023/06/06/emacs_package_highlight_vterm.html)
 - [Often overlooked String operations in the Kotlin Standard Library](https://themkat.net/2023/03/06/kotlin_strings_stdlib.html)
 - [Often overlooked Collections operations in the Kotlin Standard Library](https://themkat.net/2023/03/04/kotlin_collections_stdlib.html)
 - [The most important computer related innovations in the last 20ish years &lpar;post-internet&rpar; - in my view](https://themkat.net/2023/02/25/important_computer_related_innovations.html)
-- [Essential books on the Rust programming language](https://themkat.net/2023/02/22/essential_rust_books.html)
 <!-- BLOG-POST-LIST:END -->
 
 
