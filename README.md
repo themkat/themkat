@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The many ways of helping Open Source &lpar;and Free&rpar; Software projects](https://themkat.net/2024/01/10/the_many_ways_to_help_open_source.html)
 - [Emacs package highlight - Centaur Tabs - The best tab &lpar;UI&rpar; system for Emacs!](https://themkat.net/2024/01/04/emacs_centaur_tabs.html)
 - [The academically hostile professor - How NOT to teach and promote learning](https://themkat.net/2024/01/02/the_academically_hostile_professor.html)
 - [Want to get a job as a backend developer? - Learn these topics now!](https://themkat.net/2023/08/18/backend_dev_job_howto.html)
 - [3 things I enjoy and 3 things I dislike about Mac OS X - As someone who primarily used GNU/Linux before](https://themkat.net/2023/07/29/three_things_love_hate_mac.html)
-- [Emacs package highlight - vterm](https://themkat.net/2023/06/06/emacs_package_highlight_vterm.html)
 <!-- BLOG-POST-LIST:END -->
 
 
