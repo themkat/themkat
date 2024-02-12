@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Amiga 1200 Checkmate 1500 Plus build - Why, how and lots of pictures!](https://themkat.net/2024/02/12/amiga_checkmate_build.html)
 - [Reasons I hate &lpar;modern&rpar; Microsoft Windows - The most awful choice of operating system anyone can make](https://themkat.net/2024/01/27/reasons_i_hate_modern_windows.html)
 - [The joy and wonders of browsing the web from the command line - A short introduction to Lynx](https://themkat.net/2024/01/20/command_line_web_browsing.html)
 - [The many ways of helping Open Source &lpar;and Free&rpar; Software projects](https://themkat.net/2024/01/10/the_many_ways_to_help_open_source.html)
 - [Emacs package highlight - Centaur Tabs - The best tab &lpar;UI&rpar; system for Emacs!](https://themkat.net/2024/01/04/emacs_centaur_tabs.html)
-- [The academically hostile professor - How NOT to teach and promote learning](https://themkat.net/2024/01/02/the_academically_hostile_professor.html)
 <!-- BLOG-POST-LIST:END -->
 
 
