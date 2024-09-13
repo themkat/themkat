@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Declarative macros in Rust - a way of writing your own syntax](https://themkat.net/2024/09/13/rust_simple_declarative_macros.html)
 - [How to block AI from using our your content? - Is it even possible? &lpar;+ rants&rpar;](https://themkat.net/2024/08/16/ai_block_crawlers.html)
 - [CSS Styles for printed webpages? - Did you know you could style for printed sites with CSS?](https://themkat.net/2024/08/14/css_print_styles.html)
 - [Command line tricks: Globbing basics](https://themkat.net/2024/02/24/command_line_tricks_globbing.html)
 - [My Amiga 1200 Checkmate 1500 Plus build - Why, how and lots of pictures!](https://themkat.net/2024/02/12/amiga_checkmate_build.html)
-- [Reasons I hate &lpar;modern&rpar; Microsoft Windows - The most awful choice of operating system anyone can make](https://themkat.net/2024/01/27/reasons_i_hate_modern_windows.html)
 <!-- BLOG-POST-LIST:END -->
 
 
