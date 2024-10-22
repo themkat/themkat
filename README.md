@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My life isn’t going anywhere - wishing my life had meaning](https://themkat.net/2024/10/21/staying_motivated.html)
 - [Write your own Emacs Lisp macros - a short introduction](https://themkat.net/2024/10/17/emacs_lisp_macros.html)
 - [Emacs tip: Use windmove to navigate open buffer windows](https://themkat.net/2024/10/14/emacs_tip_windmove.html)
 - [Quick tip: Exercism - an interactive exercise platform for programmers of ALL skill levels](https://themkat.net/2024/10/06/exercism_quick_tip.html)
 - [Declarative macros in Rust - a way of writing your own syntax](https://themkat.net/2024/09/13/rust_simple_declarative_macros.html)
-- [How to block AI from using our your content? - Is it even possible? &lpar;+ rants&rpar;](https://themkat.net/2024/08/16/ai_block_crawlers.html)
 <!-- BLOG-POST-LIST:END -->
 
 
