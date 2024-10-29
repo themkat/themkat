@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PC vs Mac? - The weird historical distinction that is for some reason still around](https://themkat.net/2024/10/28/pc_vs_mac_weird_historical_notes.html)
 - [Read documentation from the comfort of Emacs - man-pages, developer documentation and more](https://themkat.net/2024/10/27/docs_inside_emacs.html)
 - [How I blog with Emacs - Org-Mode, Jekyll, Github Actions and interesting tidbits](https://themkat.net/2024/10/22/how_i_blog_with_emacs.html)
 - [My life isn’t going anywhere - wishing my life had meaning](https://themkat.net/2024/10/21/staying_motivated.html)
 - [Write your own Emacs Lisp macros - a short introduction](https://themkat.net/2024/10/17/emacs_lisp_macros.html)
-- [Emacs tip: Use windmove to navigate open buffer windows](https://themkat.net/2024/10/14/emacs_tip_windmove.html)
 <!-- BLOG-POST-LIST:END -->
 
 
