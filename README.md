@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 - [Write your own Emacs Lisp macros - a short introduction](https://themkat.net/2024/10/17/emacs_lisp_macros.html)
 <!-- BLOG-POST-LIST:END -->
 
+You can also [subscribe to my newsletter](https://themkat.net/newsletter.html) to not miss a blog post :smile:
+
 
 ## Latest YouTube videos
 <!-- YOUTUBE-LIST:START -->
