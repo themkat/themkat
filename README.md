@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I stopped making YouTube videos - at least for now](https://themkat.net/2024/12/27/why_i_stopped_making_youtube_videos.html)
 - [24 Emacs packages and utilities to try while counting down to Jul/Christmas/Holidays](https://themkat.net/2024/12/17/twenty_four_emacs_packages.html)
 - [PC vs Mac? - The weird historical distinction that is for some reason still around](https://themkat.net/2024/10/28/pc_vs_mac_weird_historical_notes.html)
 - [Read documentation from the comfort of Emacs - man-pages, developer documentation and more](https://themkat.net/2024/10/27/docs_inside_emacs.html)
 - [How I blog with Emacs - Org-Mode, Jekyll, Github Actions and interesting tidbits](https://themkat.net/2024/10/22/how_i_blog_with_emacs.html)
-- [My life isn’t going anywhere - wishing my life had meaning](https://themkat.net/2024/10/21/staying_motivated.html)
 <!-- BLOG-POST-LIST:END -->
 
 You can also [subscribe to my newsletter](https://themkat.net/newsletter.html) to not miss a blog post :smile:
