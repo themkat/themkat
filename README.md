@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Emacs Quick Tip - Smoother scrolling](https://themkat.net/2025/03/25/simple_smoother_emacs_scrolling.html)
 - [Code your TI84Plus BASIC programs on a computer &lpar;using your favorite editor!&rpar;](https://themkat.net/2025/03/22/ti84plus_basic_coding_on_a_computer.html)
 - [Pi Day 2025 - Let’s have fun with numbers!](https://themkat.net/2025/03/14/pi_day_2025.html)
 - [A poem of sorts - I dream of the day](https://themkat.net/2025/01/07/poem_about_dreams.html)
 - [Ghostty - first impressions and Emacs-like split panes how-to](https://themkat.net/2025/01/02/ghostty_config_first_impressions.html)
-- [Why I stopped making YouTube videos - at least for now](https://themkat.net/2024/12/27/why_i_stopped_making_youtube_videos.html)
 <!-- BLOG-POST-LIST:END -->
 
 You can also [subscribe to my newsletter](https://themkat.net/newsletter.html) to not miss a blog post :smile:
