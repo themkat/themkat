@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Emacs Quick Tip: Disable key bindings with global-unset-key](https://themkat.net/2025/05/13/emacs_unset_keys.html)
 - [Github Actions workflow for my Emacs config?! - Why would I even do that?](https://themkat.net/2025/03/31/github_actions_pipeline_for_emacs_config_why.html)
 - [Emacs Quick Tip - Smoother scrolling](https://themkat.net/2025/03/25/simple_smoother_emacs_scrolling.html)
 - [Code your TI84Plus BASIC programs on a computer &lpar;using your favorite editor!&rpar;](https://themkat.net/2025/03/22/ti84plus_basic_coding_on_a_computer.html)
 - [Pi Day 2025 - Let’s have fun with numbers!](https://themkat.net/2025/03/14/pi_day_2025.html)
-- [A poem of sorts - I dream of the day](https://themkat.net/2025/01/07/poem_about_dreams.html)
 <!-- BLOG-POST-LIST:END -->
 
 You can also [subscribe to my newsletter](https://themkat.net/newsletter.html) to not miss a blog post :smile:
