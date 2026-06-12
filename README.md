@@ -3,6 +3,7 @@ General Kenobi! Sorry, I had to :)
 
 ![themkat's GitHub stats](https://github-readme-stats.vercel.app/api?username=themkat)
 
+Not my blog post, but more relevant than ever: [I will fucking piledrive you if you mention AI again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/).
 
 <!--
 **themkat/themkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
