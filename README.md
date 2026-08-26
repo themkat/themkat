@@ -3,6 +3,9 @@ General Kenobi! Sorry, I had to :)
 
 Not my blog post, but more relevant than ever: [I will fucking piledrive you if you mention AI again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/).
 
+[Jonas aka tarsius](https://github.com/tarsius) is keeping some of the best Emacs packages alive and free of genAI slop. I sponsor him, and so should you <3
+
+
 Fuck generative AI (genAI), fuck "agentic coding" and whatever else you call it. Don't email me about your slopfest vibecode or genAI projects. Resist technofeudalism!
 
 <!--
