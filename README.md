@@ -3,7 +3,7 @@ General Kenobi! Sorry, I had to :)
 
 Not my blog post, but more relevant than ever: [I will fucking piledrive you if you mention AI again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/).
 
-Fuck generative AI (genAI), fuck "agentic coding" and whatever else you call it. Don't email me about your slopfest vibecode or genAI projects.
+Fuck generative AI (genAI), fuck "agentic coding" and whatever else you call it. Don't email me about your slopfest vibecode or genAI projects. Resist technofeudalism!
 
 <!--
 **themkat/themkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
