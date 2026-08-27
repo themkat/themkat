@@ -6,6 +6,9 @@ Not my blog post, but more relevant than ever: [I will fucking piledrive you if 
 [Jonas aka tarsius](https://github.com/tarsius) is keeping some of the best Emacs packages alive and free of genAI slop. I sponsor him, and so should you <3
 
 
+[Help Cara (the genAI free app for artists) fight against scrapers!](https://www.gofundme.com/f/help-cara-legal-fund)
+
+
 Fuck generative AI (genAI), fuck "agentic coding" and whatever else you call it. Don't email me about your slopfest vibecode or genAI projects. Resist technofeudalism!
 
 <!--
